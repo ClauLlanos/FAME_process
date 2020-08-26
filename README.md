@@ -1,4 +1,4 @@
-# Data_process:SMN & FAME
+# Data:SMN & FAME
 
 The matrices used for the Robust Data Reconciliation procedure are saved here.
 
